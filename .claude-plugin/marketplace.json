@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "ritarock-plugin",
-      "source": ".",
+      "source": "./",
       "description": "Personal custom slash commands for Claude Code"
     }
   ]
