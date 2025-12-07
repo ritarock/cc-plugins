@@ -1,0 +1,13 @@
+{
+  "name": "ritarock-marketplace",
+  "owner": {
+    "name": "Ryota Osaki"
+  },
+  "plugins": [
+    {
+      "name": "ritarock-plugin",
+      "source": ".",
+      "description": "Personal custom slash commands for Claude Code"
+    }
+  ]
+}
